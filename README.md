@@ -50,7 +50,7 @@ Alternatively, you can use some service like Postman or hurl.it just remember to
 
 You should get a response that states that "webhook has been set"
 
-### Step 7 : Talk to the bot
+### Step 6 : Talk to the bot
 
 You should now be able to talk to the bot and get responses from it
 
