@@ -13,10 +13,9 @@ To get this running, you need the following. First install dependencies
 
 `pip install -r requirements.txt`
 
-### Step 2 : Run migrations
+### Step 2 : Run makemigrations and then migrate
 
-Though there are no models for this code, this just creates the default stuff for admin. 
-
+`python manage.py makemigrations` then
 `python manage.py migrate`
 
 ### Step 3 : Start the local server
