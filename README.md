@@ -1,6 +1,6 @@
 # Requirements
 
-- Python 2.7
+- Python 3.9.5
 - Make sure you have pip (pip --version)
 - pip install virtualenv to install virtual environment
 
